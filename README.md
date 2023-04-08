@@ -40,6 +40,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 # IDE extensions, frontends, browser plugins
 
 * https://github.com/MateusZitelli/PromptMate - PromptMate is your AI partner to develop code. 💻 It connects to OpenAI Conversation API (GPT-4, GPT-3.5) and helps you create proper prompts and engage in conversations in VS Code, keeping your code in context. You can easily get code snippets, ask questions, and receive guidance from your AI assistant. Install PromptMate for VS Code.
+* https://github.com/cfortuner/plugins - AI plugins for apps like chatGPT :)
 
 
 # Annotation, Conversational Information Retrieval, misc
@@ -65,7 +66,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 # Autonomy Experiments
 
 * https://github.com/Torantulino/Auto-GPT - An experimental open-source attempt to make GPT-4 fully autonomous.
-* 
+* https://github.com/yoheinakajima/babyagi
 
 
 # Misc Research
