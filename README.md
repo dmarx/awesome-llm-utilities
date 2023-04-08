@@ -14,7 +14,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/microsoft/visual-chatgpt - Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. See our paper: [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
 * https://github.com/lightaime/camel - CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society - www.camel-ai.org
 * https://github.com/chatarena/chatarena - Multi-Agent Language Game Environments for LLMs
-* 
+* https://github.com/google-research/cascades - Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
 
 
 # Coding agents, Implicitly defined tools, Tools for Developers
@@ -34,6 +34,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/benlipkin/probsem - a framework to leverage large language models (LLMs) to assign context-conditional probability distributions over queried strings, with default support for all OpenAI engines and HuggingFace CausalLM models.
 * https://github.com/HazyResearch/manifest - How to make prompt programming with Foundation Models a little easier.
 * https://github.com/eth-sri/lmql - A query language for programming (large) language models. - lmql.ai
+* https://github.com/bigscience-workshop/promptsource - Toolkit for creating, sharing and using natural language prompts.
 
 
 # IDE extensions, frontends, browser plugins
@@ -48,6 +49,8 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/whitead/paper-qa - LLM Chain for answering questions from documents with citations
 * https://github.com/jagilley/fact-checker - Fact-checking LLM outputs with langchain
 * https://github.com/socketteer/loom - Multiversal tree writing interface for human-AI collaboration
+* https://github.com/argilla-io/argilla - ✨ Argilla: Open-source platform empowering teams to build better language models through human feedback. docs.argilla.io
+* https://github.com/deepset-ai/haystack - 🔍 Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex decision making, question answering, semantic search, text generation applications, and more. haystack.deepset.ai
 
 
 # Generation SDKs
@@ -56,6 +59,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/NVIDIA/NeMo - NVIDIA NeMo is a conversational AI toolkit built for researchers working on automatic speech recognition (ASR), text-to-speech synthesis (TTS), large language models (LLMs), and natural language processing (NLP). The primary objective of NeMo is to help researchers from industry and academia to reuse prior work (code and pretrained models) and make it easier to create new conversational AI models.
 * https://github.com/togethercomputer/OpenChatKit - OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications. The kit includes an instruction-tuned language models, a moderation model, and an extensible retrieval system for including up-to-date responses from custom repositories. OpenChatKit models were trained on the OIG-43M training dataset, which was a collaboration between Together, LAION, and Ontocord.ai.
 * https://github.com/neuml/txtai - 💡 Semantic search and workflows powered by language models. neuml.github.io/txtai
+* https://github.com/RasaHQ/rasa - Rasa is an open source machine learning framework to automate text and voice-based conversations. With Rasa, you can build contextual assistants on: <list of app integrations>. Rasa helps you build contextual assistants capable of having layered conversations with lots of back-and-forth. In order for a human to have a meaningful exchange with a contextual assistant, the assistant needs to be able to use context to build on things that were previously discussed – Rasa enables you to build assistants that can do this in a scalable way.
 
 
 # Autonomy Experiments
