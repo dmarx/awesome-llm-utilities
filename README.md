@@ -8,6 +8,8 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/jerryjliu/llama_index - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 * https://github.com/stanfordnlp/dsp - 𝗗𝗦𝗣: Demonstrate-Search-Predict. A framework for composing retrieval and language models for knowledge-intensive NLP.
 * https://github.com/amazon-science/mm-cot - Multimodal Chain-of-Thought Reasoning in Language Models
+* https://github.com/microsoft/visual-chatgpt - Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. See our paper: [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
+* 
 
 # Coding agents
 
@@ -25,11 +27,13 @@ Tooling and frameworks to support building tools that utilize LLM agents
 
 * https://github.com/MateusZitelli/PromptMate - 
 
-# Annotation, misc
+# Annotation, Conversational Information Retrieval, misc
 
 * https://github.com/explosion/prodigy-openai-recipes - This repository contains example code on how to combine zero- and few-shot learning with a small annotation effort to obtain a high-quality dataset with maximum efficiency. Specifically, we use large language models available from OpenAI to provide us with an initial set of predictions, then spin up a Prodigy instance on our local machine to go through these predictions and curate them. This allows us to obtain a gold-standard dataset pretty quickly, and train a smaller, supervised model that fits our exact needs and use-case.
 * https://github.com/hwchase17/chat-langchain - This repo is an implementation of a locally hosted chatbot specifically focused on question answering over the LangChain documentation. 
 * https://github.com/whitead/paper-qa - LLM Chain for answering questions from documents with citations
+* https://github.com/jagilley/fact-checker - Fact-checking LLM outputs with langchain
+
 
 # Speech hooks
 
