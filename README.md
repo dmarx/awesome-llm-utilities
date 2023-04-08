@@ -69,6 +69,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 
 * https://github.com/Torantulino/Auto-GPT - An experimental open-source attempt to make GPT-4 fully autonomous.
 * https://github.com/yoheinakajima/babyagi
+* https://github.com/fullthom/chat-gpt-quine
 
 
 # Misc Research
