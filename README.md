@@ -56,6 +56,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/newhouseb/clownfish - Constrained Decoding for LLMs against JSON Schema
 * https://github.com/kyang6/llmparser - [TypeScript] Classify and extract structured data with LLMs. llmparser.com
 
+
 # IDE extensions, frontends, browser plugins
 
 * https://github.com/MateusZitelli/PromptMate - PromptMate is your AI partner to develop code. 💻 It connects to OpenAI Conversation API (GPT-4, GPT-3.5) and helps you create proper prompts and engage in conversations in VS Code, keeping your code in context. You can easily get code snippets, ask questions, and receive guidance from your AI assistant. Install PromptMate for VS Code.
@@ -112,6 +113,9 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/CarperAI/OpenELM - This repository is a replication of Evolution Through Large Models, a recent paper from OpenAI exploring the links between large language models (LLMs) and evolutionary computing, particularly focused on code generation.
 * https://github.com/IBM/model-recycling - To see the best model to start from, or study the differences between finetuned models, please visit the website. Or read the paper.
 * https://github.com/HazyResearch/ama_prompting - This repository contains code for the Ask Me Anything (AMA) prompt-aggregation strategy. The end-to-end AMA approach includes (1) recursively using the language model to transform the task format and prompt and (2) aggregating the predictions of multiple prompts using weak supervision. 
+* https://github.com/microsoft/LMOps
+* https://github.com/AGI-Edgerunners/LLM-Adapters
+
 
 # LLM Red Teaming and Prompt Bypass
 
@@ -125,3 +129,4 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/FreedomIntelligence/ReasoningNLP
 * https://github.com/Hannibal046/Awesome-LLM
 * https://github.com/GT-RIPL/Awesome-LLM-Robotics
+* https://github.com/RUCAIBox/LLMSurvey
