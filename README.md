@@ -69,7 +69,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/socketteer/loom - Multiversal tree writing interface for human-AI collaboration
 * https://github.com/argilla-io/argilla - ✨ Argilla: Open-source platform empowering teams to build better language models through human feedback. docs.argilla.io
 * https://github.com/deepset-ai/haystack - 🔍 Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex decision making, question answering, semantic search, text generation applications, and more. haystack.deepset.ai
-
+* https://github.com/hwchase17/notion-qa
 
 # Generation SDKs
 
