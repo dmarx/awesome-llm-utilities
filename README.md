@@ -13,6 +13,8 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/amazon-science/mm-cot - Multimodal Chain-of-Thought Reasoning in Language Models
 * https://github.com/microsoft/visual-chatgpt - Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. See our paper: [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
 * https://github.com/lightaime/camel - CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society - www.camel-ai.org
+* https://github.com/chatarena/chatarena - Multi-Agent Language Game Environments for LLMs
+* 
 
 
 # Coding agents, Implicitly defined tools, Tools for Developers
@@ -23,7 +25,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/BlackHC/llm-strategy - Directly Connecting Python to LLMs - Dataclasses & Interfaces <-> LLMs blackhc.github.io/llm-strategy
 * https://github.com/biobootloader/wolverine - Give your python scripts regenerative healing abilities! Run your scripts with Wolverine and when they crash, GPT-4 edits them and explains what went wrong. Even if you have many bugs it will repeatedly rerun until it's fixed.
 * https://github.com/Quansight/pseudocode - pseudocode is a python module which allows users to describe the functions they want via type annotations and docstrings without writing the actual code. It empowers users to iterate with large language models to generate functions which satisfy the user along with defined tests.
-* 
+* https://github.com/fjrdomingues/autopilot - Dev Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
 
 
 # Prompt Construction, Generation Validation and Guidance
@@ -31,12 +33,13 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/ShreyaR/guardrails - Adding guardrails to large language models. discord.gg/Jsey3mX98B
 * https://github.com/benlipkin/probsem - a framework to leverage large language models (LLMs) to assign context-conditional probability distributions over queried strings, with default support for all OpenAI engines and HuggingFace CausalLM models.
 * https://github.com/HazyResearch/manifest - How to make prompt programming with Foundation Models a little easier.
+* https://github.com/eth-sri/lmql - A query language for programming (large) language models. - lmql.ai
 
 
 # IDE extensions, frontends, browser plugins
 
-* https://github.com/MateusZitelli/PromptMate - 
-* https://github.com/socketteer/loom - Multiversal tree writing interface for human-AI collaboration
+* https://github.com/MateusZitelli/PromptMate - PromptMate is your AI partner to develop code. 💻 It connects to OpenAI Conversation API (GPT-4, GPT-3.5) and helps you create proper prompts and engage in conversations in VS Code, keeping your code in context. You can easily get code snippets, ask questions, and receive guidance from your AI assistant. Install PromptMate for VS Code.
+
 
 # Annotation, Conversational Information Retrieval, misc
 
@@ -44,7 +47,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/hwchase17/chat-langchain - This repo is an implementation of a locally hosted chatbot specifically focused on question answering over the LangChain documentation. 
 * https://github.com/whitead/paper-qa - LLM Chain for answering questions from documents with citations
 * https://github.com/jagilley/fact-checker - Fact-checking LLM outputs with langchain
-
+* https://github.com/socketteer/loom - Multiversal tree writing interface for human-AI collaboration
 
 
 # Generation SDKs
