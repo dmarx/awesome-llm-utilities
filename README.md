@@ -42,6 +42,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/Quansight/pseudocode - pseudocode is a python module which allows users to describe the functions they want via type annotations and docstrings without writing the actual code. It empowers users to iterate with large language models to generate functions which satisfy the user along with defined tests.
 * https://github.com/fjrdomingues/autopilot - Dev Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
 * https://github.com/PrefectHQ/marvin - 🤖🪄 A batteries-included library for building AI-powered software. askmarvin.ai
+* https://github.com/microsoft/semantic-kernel
 
 
 # Prompt Construction, Generation Validation and Guidance
