@@ -34,10 +34,12 @@ Tooling and frameworks to support building tools that utilize LLM agents
 
 # Annotation, Conversational Information Retrieval, misc
 
+* https://github.com/emptycrown/llama-hub - A library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain
 * https://github.com/explosion/prodigy-openai-recipes - This repository contains example code on how to combine zero- and few-shot learning with a small annotation effort to obtain a high-quality dataset with maximum efficiency. Specifically, we use large language models available from OpenAI to provide us with an initial set of predictions, then spin up a Prodigy instance on our local machine to go through these predictions and curate them. This allows us to obtain a gold-standard dataset pretty quickly, and train a smaller, supervised model that fits our exact needs and use-case.
 * https://github.com/hwchase17/chat-langchain - This repo is an implementation of a locally hosted chatbot specifically focused on question answering over the LangChain documentation. 
 * https://github.com/whitead/paper-qa - LLM Chain for answering questions from documents with citations
 * https://github.com/jagilley/fact-checker - Fact-checking LLM outputs with langchain
+
 
 
 # Generation SDKs
