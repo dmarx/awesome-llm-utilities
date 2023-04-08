@@ -36,7 +36,8 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/HazyResearch/manifest - How to make prompt programming with Foundation Models a little easier.
 * https://github.com/eth-sri/lmql - A query language for programming (large) language models. - lmql.ai
 * https://github.com/bigscience-workshop/promptsource - Toolkit for creating, sharing and using natural language prompts.
-
+* https://github.com/newhouseb/clownfish - Constrained Decoding for LLMs against JSON Schema
+* https://github.com/kyang6/llmparser - [TypeScript] Classify and extract structured data with LLMs. llmparser.com
 
 # IDE extensions, frontends, browser plugins
 
@@ -91,3 +92,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 # LLM Red Teaming and Prompt Bypass
 
 * https://github.com/greshake/llm-security - New ways of breaking app-integrated LLMs. We demonstrate potentially brutal consequences of giving LLMs like ChatGPT interfaces to other applications. We propose newly enabled attack vectors and techniques and provide demonstrations of each in this repository. See also: https://greshake.github.io/
+
+# Other Related lists
+
+* https://github.com/HazyResearch/data-centric-ai
