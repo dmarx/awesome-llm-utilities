@@ -30,6 +30,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/lightaime/camel - CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society - www.camel-ai.org
 * https://github.com/chatarena/chatarena - Multi-Agent Language Game Environments for LLMs
 * https://github.com/google-research/cascades - Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
+* https://github.com/mpaepper/llm_agents
 
 
 # Coding agents, Implicitly defined tools, Tools for Developers
