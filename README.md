@@ -65,3 +65,5 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/GammaTauAI/opentau
 * https://github.com/madaan/self-refine - LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively.
 * https://github.com/Muennighoff/sgpt - SGPT: GPT Sentence Embeddings for Semantic Search
+* https://github.com/HKUNLP/instructor-embedding - This repository contains the code and pre-trained models for our paper [One Embedder, Any Task: Instruction-Finetuned Text Embeddings](https://arxiv.org/abs/2212.09741). Please refer to our [project page](https://instructor-embedding.github.io/) for a quick project overview. We introduce **Instructor**👨‍🏫, an instruction-finetuned text embedding model that can generate text embeddings tailored to any task (e.g., classification, retrieval, clustering, text evaluation, etc.) and domains (e.g., science, finance, etc.) ***by simply providing the task instruction, without any finetuning***. Instructor👨‍ achieves sota on 70 diverse embedding tasks!
+* https://github.com/reasoning-machines/pal - PaL: Program-Aided Language Models
