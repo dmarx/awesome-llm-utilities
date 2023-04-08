@@ -109,6 +109,7 @@ Tooling and frameworks to support building tools that utilize LLM agents
 
 * https://github.com/greshake/llm-security - New ways of breaking app-integrated LLMs. We demonstrate potentially brutal consequences of giving LLMs like ChatGPT interfaces to other applications. We propose newly enabled attack vectors and techniques and provide demonstrations of each in this repository. See also: https://greshake.github.io/
 
-# Other Related lists
+# Related lists
 
 * https://github.com/HazyResearch/data-centric-ai
+* https://github.com/FreedomIntelligence/ReasoningNLP
