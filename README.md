@@ -118,3 +118,4 @@ Tooling and frameworks to support building tools that utilize LLM agents
 
 * https://github.com/HazyResearch/data-centric-ai
 * https://github.com/FreedomIntelligence/ReasoningNLP
+* https://github.com/Hannibal046/Awesome-LLM
