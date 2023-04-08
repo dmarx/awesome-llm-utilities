@@ -58,6 +58,8 @@ Tooling and frameworks to support building tools that utilize LLM agents
 
 * https://github.com/MateusZitelli/PromptMate - PromptMate is your AI partner to develop code. 💻 It connects to OpenAI Conversation API (GPT-4, GPT-3.5) and helps you create proper prompts and engage in conversations in VS Code, keeping your code in context. You can easily get code snippets, ask questions, and receive guidance from your AI assistant. Install PromptMate for VS Code.
 * https://github.com/cfortuner/plugins - AI plugins for apps like chatGPT :)
+* https://github.com/transmissions11/flux
+* * https://github.com/socketteer/loom - Multiversal tree writing interface for human-AI collaboration
 
 
 # Annotation, Conversational Information Retrieval, misc
@@ -66,7 +68,6 @@ Tooling and frameworks to support building tools that utilize LLM agents
 * https://github.com/hwchase17/chat-langchain - This repo is an implementation of a locally hosted chatbot specifically focused on question answering over the LangChain documentation. 
 * https://github.com/whitead/paper-qa - LLM Chain for answering questions from documents with citations
 * https://github.com/jagilley/fact-checker - Fact-checking LLM outputs with langchain
-* https://github.com/socketteer/loom - Multiversal tree writing interface for human-AI collaboration
 * https://github.com/argilla-io/argilla - ✨ Argilla: Open-source platform empowering teams to build better language models through human feedback. docs.argilla.io
 * https://github.com/deepset-ai/haystack - 🔍 Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex decision making, question answering, semantic search, text generation applications, and more. haystack.deepset.ai
 * https://github.com/hwchase17/notion-qa
