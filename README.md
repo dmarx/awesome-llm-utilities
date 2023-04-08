@@ -2,6 +2,21 @@
 
 Tooling and frameworks to support building tools that utilize LLM agents
 
+# Personal Favorites
+
+* https://github.com/microsoft/JARVIS - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (HuggingGPT)
+* https://github.com/hwchase17/langchain - ⚡ Building applications with LLMs through composability ⚡
+* https://github.com/jerryjliu/llama_index - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+* https://github.com/chatarena/chatarena - Multi-Agent Language Game Environments for LLMs
+* https://github.com/irgolic/AutoPR - Fix issues with AI-generated pull requests, powered by ChatGPT. discord.gg/ykk7Znt3K6
+* https://github.com/PrefectHQ/marvin - 🤖🪄 A batteries-included library for building AI-powered software. askmarvin.ai
+* https://github.com/ShreyaR/guardrails - Adding guardrails to large language models. discord.gg/Jsey3mX98B
+* https://github.com/eth-sri/lmql - A query language for programming (large) language models. - lmql.ai
+* https://github.com/deepset-ai/haystack - Haystack is an end-to-end NLP framework that enables you to build NLP applications powered by LLMs, Transformer models, vector search and more. Whether you want to perform question answering, answer generation, semantic document search, or build tools that are capable of complex decision making and query resolution, you can use the state-of-the-art NLP models with Haystack to build end-to-end NLP applications solving your use case.
+* https://github.com/togethercomputer/OpenChatKit - OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications. The kit includes an instruction-tuned language models, a moderation model, and an extensible retrieval system for including up-to-date responses from custom repositories. OpenChatKit models were trained on the OIG-43M training dataset, which was a collaboration between Together, LAION, and Ontocord.ai.
+
+
+---
 
 # Agent orchestration, multi-step planning
 
